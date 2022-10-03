@@ -1,7 +1,7 @@
 {
-  "name": "tunnel",
-  "version": "0.0.6",
-  "description": "Node HTTP/HTTPS Agents for tunneling proxies",
+  "name": "@albetz99/tunnel",
+  "version": "0.0.2",
+  "description": "Node HTTP/HTTPS Agents for tunneling proxies, fork of https://github.com/koichik/node-tunnel/",
   "keywords": [
     "http",
     "https",
@@ -9,17 +9,17 @@
     "proxy",
     "tunnel"
   ],
-  "homepage": "https://github.com/koichik/node-tunnel/",
-  "bugs": "https://github.com/koichik/node-tunnel/issues",
+  "homepage": "https://github.com/albertwijaya99/node-tunnel/",
+  "bugs": "https://github.com/albertwijaya99/node-tunnel/issues",
   "license": "MIT",
-  "author": "Koichi Kobayashi <koichik@improvement.jp>",
+  "author": "Albert Wijaya <albetz99@gmail.com>",
   "main": "./index.js",
   "directories": {
     "lib": "./lib"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/koichik/node-tunnel.git"
+    "url": "https://github.com/albertwijaya99/node-tunnel.git"
   },
   "scripts": {
     "test": "mocha"
